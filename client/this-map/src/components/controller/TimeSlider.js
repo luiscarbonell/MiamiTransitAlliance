@@ -17,7 +17,7 @@ class TimeSlider extends Component {
 			<div className="slidecontainer">
 				<p id="display">Time: {this.state.time} a.m.</p>
 				<input type="range"	min="1"	max="12"
-					value={this.state.time}	onChange={this.time}
+					value={this.state.time}	onClick={this.time}
 					className="slider" id="slider">
 				</input>
 			</div>

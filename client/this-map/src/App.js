@@ -1,13 +1,13 @@
 import React, { Component } from 'react';
 import './App.css';
 import Map from './Map.js';
-import TimeSlider from './components/controller/TimeSlider';
+import Controller from './components/controller/controller';
 
 class App extends Component {
   render() {
     return (
       <div className="App">
-		<TimeSlider />
+		<Controller />
         <Map />
       </div>
     );
