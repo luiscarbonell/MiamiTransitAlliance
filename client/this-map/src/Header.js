@@ -6,25 +6,71 @@ import './App.css';
 
 
 
-
 class Header extends Component {
+
+  constructor() {
+      super();
+
+      this.state = {
+        showDayofWeek: false,
+      };
+
+      this.showDayofWeek = this.showDayofWeek.bind(this);
+      this.closeDayofWeek = this.closeDayofWeek.bind(this);
+    }
+
+    showDayofWeek(event) {
+      event.preventDefault();
+
+      this.setState({ showDayofWeek: true }, () => {
+        document.addEventListener('click', this.closeDayofWeek);
+      });
+    }
+
+    closeDayofWeek(event) {
+
+      if (!this.dropdownDayofWeek.contains(event.target)) {
+
+        this.setState({ showDayofWeek: false }, () => {
+          document.removeEventListener('click', this.closeDayofWeek);
+        });
+
+      }
+    }
+
+
   render() {
     return (
-      <div className="dd-wrapper">
-        <div className="dd-header">
-          <div className="dd-header-title">Interconncectivity Map</div>
-        </div>
-        <ul className="Day of the Week">
-          <li className="Sunday">Sunday</li>
-          <li className="Monday">Monday</li>
-          <li className="Tuesday">Tuesday</li>
-          <li className="Wednesday">Wednesday</li>
-          <li className="Thursday">Thursday</li>
-          <li className="Friday">Friday</li>
-        </ul>
-      </div>
-    );
-  }
-}
+          <div>
+              <button onClick={this.showDayofWeek}>
+                Show Day of Week
+              </button>
+
+              {
+                this.state.showDayofWeek
+                  ? (
+                    <div
+                      className="DayofWeek"
+                      ref={(element) => {
+                        this.dropdownDayofWeek = element;
+                      }}
+                    >
+                      <button> Sunday </button>
+                      <button> Monday </button>
+                      <button> Tuesday </button>
+                      <button> Wednesday </button>
+                      <button> Thursday </button>
+                      <button> Friday </button>
+                    </div>
+                  )
+                  : (
+                    null
+                  )
+              }
+            </div>
+          );
+        }
+      }
+
 
 export default Header;
