@@ -1,0 +1,5 @@
+service_id,monday,tuesday,wednesday,thursday,friday,saturday,sunday,start_date,end_date
+CB15JAN_muwtf,1,1,1,1,1,0,0,20160425,20160617
+16APR_s,0,0,0,0,0,0,1,20160424,20160612
+16APR_muwtf,1,1,1,1,1,0,0,20160425,20160617
+16APR_a,0,0,0,0,0,1,0,20160430,20160618

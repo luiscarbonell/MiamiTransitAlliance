@@ -1,0 +1,45 @@
+route_id,route_short_name,route_long_name,route_type,route_color,route_text_color,route_url
+BCT01,01,,3,FBB040,FFFFFF,http://www.broward.org/BCT/SCHEDULES/Pages/default.aspx
+BCT02,02,,3,DDA68A,FFFFFF,http://www.broward.org/BCT/SCHEDULES/Pages/default.aspx
+BCT04,04,,3,C3B600,FFFFFF,http://www.broward.org/BCT/SCHEDULES/Pages/default.aspx
+BCT05,05,,3,22BCB9,FFFFFF,http://www.broward.org/BCT/SCHEDULES/Pages/default.aspx
+BCT06,06,,3,9F218B,FFFFFF,http://www.broward.org/BCT/SCHEDULES/Pages/default.aspx
+BCT07,07,,3,B06010,FFFFFF,http://www.broward.org/BCT/SCHEDULES/Pages/default.aspx
+BCT09,09,,3,7C2B83,FFFFFF,http://www.broward.org/BCT/SCHEDULES/Pages/default.aspx
+BCT10,10,,3,EF4135,FFFFFF,http://www.broward.org/BCT/SCHEDULES/Pages/default.aspx
+BCT11,11,,3,68C8C6,FFFFFF,http://www.broward.org/BCT/SCHEDULES/Pages/default.aspx
+BCT12,12,,3,876500,FFFFFF,http://www.broward.org/BCT/SCHEDULES/Pages/default.aspx
+BCT14,14,,3,0079C1,FFFFFF,http://www.broward.org/BCT/SCHEDULES/Pages/default.aspx
+BCT15,15,,3,F89C57,FFFFFF,http://www.broward.org/BCT/SCHEDULES/Pages/default.aspx
+BCT16,16,,3,C4A006,FFFFFF,http://www.broward.org/BCT/SCHEDULES/Pages/default.aspx
+BCT18,18,,3,F16477,FFFFFF,http://www.broward.org/BCT/SCHEDULES/Pages/default.aspx
+BCT19,19,,3,6C84C2,FFFFFF,http://www.broward.org/BCT/SCHEDULES/Pages/default.aspx
+BCT20,20,,3,439539,FFFFFF,http://www.broward.org/BCT/SCHEDULES/Pages/default.aspx
+BCT22,22,,3,BF83B9,FFFFFF,http://www.broward.org/BCT/SCHEDULES/Pages/default.aspx
+BCT23,23,,3,B30838,FFFFFF,http://www.broward.org/BCT/SCHEDULES/Pages/default.aspx
+BCT28,28,,3,00B259,FFFFFF,http://www.broward.org/BCT/SCHEDULES/Pages/default.aspx
+BCT30,30,,3,E36F1E,FFFFFF,http://www.broward.org/BCT/SCHEDULES/Pages/default.aspx
+BCT31,31,,3,933C06,FFFFFF,http://www.broward.org/BCT/SCHEDULES/Pages/default.aspx
+BCT34,34,,3,B26062,FFFFFF,http://www.broward.org/BCT/SCHEDULES/Pages/default.aspx
+BCT36,36,,3,C88A12,FFFFFF,http://www.broward.org/BCT/SCHEDULES/Pages/default.aspx
+BCT40,40,,3,009DDC,FFFFFF,http://www.broward.org/BCT/SCHEDULES/Pages/default.aspx
+BCT42,42,,3,9E6614,FFFFFF,http://www.broward.org/BCT/SCHEDULES/Pages/default.aspx
+BCT48,48,,3,E7A614,FFFFFF,http://www.broward.org/BCT/SCHEDULES/Pages/default.aspx
+BCT50,50,,3,7581BF,FFFFFF,http://www.broward.org/BCT/SCHEDULES/Pages/default.aspx
+BCT55,55,,3,005596,FFFFFF,http://www.broward.org/BCT/SCHEDULES/Pages/default.aspx
+BCT56,56,,3,D9531E,FFFFFF,http://www.broward.org/BCT/SCHEDULES/Pages/default.aspx
+BCT60,60,,3,FAA634,FFFFFF,http://www.broward.org/BCT/SCHEDULES/Pages/default.aspx
+BCT62,62,,3,B2BB1E,FFFFFF,http://www.broward.org/BCT/SCHEDULES/Pages/default.aspx
+BCT72,72,,3,B95915,FFFFFF,http://www.broward.org/BCT/SCHEDULES/Pages/default.aspx
+BCT81,81,,3,A6B4AC,FFFFFF,http://www.broward.org/BCT/SCHEDULES/Pages/default.aspx
+BCT83,83,,3,19398A,FFFFFF,http://www.broward.org/BCT/SCHEDULES/Pages/default.aspx
+BCT88,88,,3,00853F,FFFFFF,http://www.broward.org/BCT/SCHEDULES/Pages/default.aspx
+BCT101,,101-US1 Breeze,3,00467F,FFFFFF,http://www.broward.org/BCT/SCHEDULES/Pages/default.aspx
+BCT102,,102-University Breeze,3,00467F,FFFFFF,http://www.broward.org/BCT/SCHEDULES/Pages/default.aspx
+BCT106,,106-95e Miramar,3,00AFEF,FFFFFF,http://www.broward.org/BCT/SCHEDULES/Pages/default.aspx
+BCT107,,107-95e Hollywood,3,B63E97,FFFFFF,http://www.broward.org/BCT/SCHEDULES/Pages/default.aspx
+BCT108,,108-95e Pembroke Pines,3,253D87,FFFFFF,http://www.broward.org/BCT/SCHEDULES/Pages/default.aspx
+BCT109,,109-95e Pembroke Pines/Miramar,3,EF4035,FFFFFF,http://www.broward.org/BCT/SCHEDULES/Pages/default.aspx
+BCT110,,110-595e Sunrise/Miami,3,253D87,FFFFFF,http://www.broward.org/BCT/SCHEDULES/Pages/default.aspx
+BCT114,,114-595e Sunrise/Civic Center,3,00B259,FFFFFF,http://www.broward.org/BCT/SCHEDULES/Pages/default.aspx
+BCT441,,441-Breeze,3,00467F,FFFFFF,http://www.broward.org/BCT/SCHEDULES/Pages/default.aspx
