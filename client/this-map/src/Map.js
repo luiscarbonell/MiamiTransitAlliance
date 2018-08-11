@@ -8,12 +8,10 @@ const API_K = API_KEY;
 
 export class SimpleMap extends Component {
   render() {
-    const triangleCoords = [
-      {lat: 25.774, lng: -80.190},
-      {lat: 18.466, lng: -66.118},
-      {lat: 32.321, lng: -64.757},
-      {lat: 25.774, lng: -80.190}
-    
+    const polyline = [
+      { lat: 37.789411, lng: -122.422116 },
+      { lat: 37.785757, lng: -122.421333 },
+      { lat: 37.789352, lng: -122.415346 }
     ];
     return (
       <Map
@@ -30,10 +28,13 @@ export class SimpleMap extends Component {
           </div>
         </InfoWindow>
         <Polyline
-          paths={triangleCoords}
-          strokeColor='black'
-          strokeOpacity={0.8}
-          strokeWeight={2} />
+        fillColor="#0000FF"
+        fillOpacity={0.35}
+        path={polyline}
+        strokeColor="#0000FF"
+        strokeOpacity={0.8}
+        strokeWeight={2}
+      />
      
       </Map>
     );
