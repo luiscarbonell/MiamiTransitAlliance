@@ -1,0 +1,6 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-80.19576299999994,25.778327000000047]},"properties":{"Station":"Miami Central","Distance_t":"-","Latitude":25.778327,"Longitude":-80.195763}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-80.14565999999996,26.12347600000004]},"properties":{"Station":"Fort Lauderdale","Distance_t":"30 Minutes","Latitude":26.123476,"Longitude":-80.14566}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-80.05558599999995,26.712127000000066]},"properties":{"Station":"West Palm Beach","Distance_t":"60 Minutes","Latitude":26.712127,"Longitude":-80.055586}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-81.30678199999994,28.414662000000078]},"properties":{"Station":"Orlando","Distance_t":"3 Hours","Latitude":28.414662,"Longitude":-81.306782}}
+]}
