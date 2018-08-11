@@ -9,9 +9,10 @@ const API_K = API_KEY;
 export class SimpleMap extends Component {
   render() {
     const polyline = [
-      { lat: 37.789411, lng: -122.422116 },
-      { lat: 37.785757, lng: -122.421333 },
-      { lat: 37.789352, lng: -122.415346 }
+      {lat: 25.7617, lng: -80.1918},
+      {lat: 26.0078, lng: -80.2963},
+      {lat: 32.321, lng: -64.757},
+      {lat: 26.0078, lng: -80.2963}
     ];
     return (
       <Map
