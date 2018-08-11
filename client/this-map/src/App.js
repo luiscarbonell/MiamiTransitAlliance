@@ -6,6 +6,7 @@ import Controller from './components/controller/controller';
 class App extends Component {
   render() {
     return (
+      
       <div className="App">
 		<Controller />
         <Map />
