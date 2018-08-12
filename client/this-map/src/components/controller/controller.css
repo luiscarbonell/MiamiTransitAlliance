@@ -1,0 +1,17 @@
+.button-container {
+    position: fixed;
+    top: 0;
+    right: 0;
+    display: flex;
+    justify-content: space-between;
+    height: 100vh;
+    z-index: 10;
+    flex-direction: column;
+    background: lightslategray;
+}
+
+button {
+    height: 33vh;
+    cursor: pointer;
+    border: 1px solid black;
+}

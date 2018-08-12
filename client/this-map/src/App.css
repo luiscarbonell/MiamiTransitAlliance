@@ -1,7 +1,6 @@
 .App {
   text-align: center;
   display: flex;
-  background: gray;
 }
 
 .App-logo {
@@ -27,17 +26,4 @@
 @keyframes App-logo-spin {
   from { transform: rotate(0deg); }
   to { transform: rotate(360deg); }
-}
-
-.button-container {
-	display: flex;
-	height: 100%;
-	flex-direction: column;
-	justify-content: space-between;
-	background: gray;
-}
-
-button {
-	height: 33vh;
-	cursor: pointer;
 }

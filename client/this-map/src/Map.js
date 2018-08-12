@@ -3,7 +3,7 @@ import React, { Component } from "react";
 import API_KEY from "./config";
 
 
-const API_K = API_KEY;
+const API_K = API_KEY; 
 
 
 export class SimpleMap extends Component {
